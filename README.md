@@ -101,13 +101,29 @@ Day 2:
 
 </details>
 
----
+### Additional Reading and Resources
 
-### Looking Forward 
+<details> 
+<summary> Click here to view additional reading materials and resources. </summary>
+</br>
 
-In the next week, we will cover the specialized field of digital forensics. We will cover a new set of skills and tools that allow us to analyze evidence on digital technology after an security incident or crime occurs.  
+Day 1:
 
----
+- [Red Team Vs Blue Team](https://securitytrails.com/blog/cybersecurity-red-blue-team)
+- [What is Vulnerability Scanning](https://www.esecurityplanet.com/network-security/vulnerability-scanning.html)
+- [What is a reverse shell](https://www.acunetix.com/blog/web-security-zone/what-is-reverse-shell/)
 
 
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Day 2: 
+
+- [Kibana: Discover Documentation](https://www.elastic.co/guide/en/kibana/7.7/discover.html)
+- [Kibana: Visualize Documentation](https://www.elastic.co/guide/en/kibana/7.7/visualize.html)
+- [Elasticsearch Reference Documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+
+
+</details>
+
+In this project you will see:
+[Red vs Blue Project Powerpoint Presentation](https://github.com/MarcoCabarrubias/20_Red_vs_Blue_Project/blob/main/Project%202%20-%20Red_vs_Blue.pdf)
+[Interview Questions](https://github.com/MarcoCabarrubias/20_Red_vs_Blue_Project/blob/main/Activity%20File_%20%20Interview%20Questions.pdf)
+
