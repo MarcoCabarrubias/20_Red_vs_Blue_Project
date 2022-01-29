@@ -124,6 +124,6 @@ Day 2:
 </details>
 
 In this project you will see:
-[Red vs Blue Project Powerpoint Presentation](https://github.com/MarcoCabarrubias/20_Red_vs_Blue_Project/blob/main/Project%202%20-%20Red_vs_Blue.pdf)
-[Interview Questions](https://github.com/MarcoCabarrubias/20_Red_vs_Blue_Project/blob/main/Activity%20File_%20%20Interview%20Questions.pdf)
+- [Red vs Blue Project Powerpoint Presentation](https://github.com/MarcoCabarrubias/20_Red_vs_Blue_Project/blob/main/Project%202%20-%20Red_vs_Blue.pdf)
+- [Interview Questions](https://github.com/MarcoCabarrubias/20_Red_vs_Blue_Project/blob/main/Activity%20File_%20%20Interview%20Questions.pdf)
 
